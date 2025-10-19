@@ -1,0 +1,30 @@
+order_id,tarih,sehir,magaza,urun_adi,kategori,adet,birim_fiyat,toplam_fiyat,odeme_tipi
+1008,2023-03-22,Antalya,Teknosa,Akü 60Ah Bosch,Elektronik,5,1100,5500,Nakit
+1010,2023-12-04,İstanbul,Migros,Akü 12V 60Ah,Elektronik,5,950,4750,Kredi Kartı
+1023,2023-03-23,İzmir,Migros,Akü 12V 60Ah,Elektronik,5,950,4750,Nakit
+1027,2023-08-26,Antalya,Teknosa,Akü 12V 60Ah,Elektronik,4,950,3800,Banka Kartı
+1049,2023-06-06,İzmir,Carrefour,Akü 60Ah Bosch,Elektronik,1,1100,1100,Banka Kartı
+1061,2023-04-10,İzmir,A101,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1068,2023-05-02,Ankara,A101,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1070,2023-04-05,İzmir,A101,Akü 60Ah Bosch,Elektronik,3,1100,3300,Kredi Kartı
+1071,2023-10-21,Ankara,Şok,Akü 12V 60Ah,Elektronik,1,950,950,Nakit
+1074,2023-05-31,İstanbul,Teknosa,Akü 12V 60Ah,Elektronik,3,950,2850,Nakit
+1080,2023-07-18,İzmir,Carrefour,Akü 60Ah Bosch,Elektronik,5,1100,5500,Banka Kartı
+1089,2023-06-17,Antalya,Carrefour,Akü 12V 60Ah,Elektronik,5,950,4750,Kredi Kartı
+1090,2023-03-27,Ankara,Migros,Akü 12V 60Ah,Elektronik,4,950,3800,Nakit
+1091,2023-06-05,İzmir,Migros,Akü 60Ah Bosch,Elektronik,5,1100,5500,Nakit
+1095,2023-06-06,İzmir,Teknosa,Akü 12V 60Ah,Elektronik,5,950,4750,Nakit
+1098,2023-12-18,İstanbul,A101,Akü 60Ah Bosch,Elektronik,3,1100,3300,Banka Kartı
+1114,2023-10-04,Antalya,Carrefour,Akü 60Ah Bosch,Elektronik,3,1100,3300,Nakit
+1120,2023-10-07,İzmir,BİM,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1124,2023-11-01,Antalya,Migros,Akü 12V 60Ah,Elektronik,3,950,2850,Nakit
+1137,2023-08-22,Bursa,BİM,Akü 12V 60Ah,Elektronik,4,950,3800,Kredi Kartı
+1140,2023-08-11,İstanbul,Teknosa,Akü 12V 60Ah,Elektronik,2,950,1900,Kredi Kartı
+1155,2023-03-20,Antalya,Carrefour,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1169,2023-09-26,İzmir,BİM,Akü 60Ah Bosch,Elektronik,2,1100,2200,Nakit
+1171,2023-03-27,İzmir,Migros,Akü 12V 60Ah,Elektronik,4,950,3800,Banka Kartı
+1174,2023-01-01,İstanbul,BİM,Akü 12V 60Ah,Elektronik,3,950,2850,Banka Kartı
+1183,2023-04-03,Ankara,A101,Akü 60Ah Bosch,Elektronik,4,1100,4400,Kredi Kartı
+1186,2023-05-10,Ankara,Teknosa,Akü 12V 60Ah,Elektronik,1,950,950,Nakit
+1187,2023-05-17,İzmir,Teknosa,Akü 60Ah Bosch,Elektronik,4,1100,4400,Nakit
+1190,2023-01-05,Bursa,A101,Akü 12V 60Ah,Elektronik,4,950,3800,Nakit

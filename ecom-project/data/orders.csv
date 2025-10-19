@@ -1,0 +1,201 @@
+﻿order_id,tarih,sehir,magaza,urun_adi,kategori,adet,birim_fiyat,toplam_fiyat,odeme_tipi
+1001,2023-03-15,Bursa,Migros,Süt 1L,Gıda,5,25,125,Kredi Kartı
+1002,2023-11-16,İstanbul,Carrefour,Motor Yağı 5W-30,Otomotiv,5,600,3000,Kredi Kartı
+1003,2023-11-27,Bursa,Teknosa,Motor Yağı 5W-30,Otomotiv,4,600,2400,Banka Kartı
+1004,2023-03-03,İstanbul,Şok,Şarjlı Pil Seti,Elektronik,2,250,500,Banka Kartı
+1005,2023-06-07,İstanbul,Şok,Motor Yağı 5W-30,Otomotiv,5,600,3000,Kredi Kartı
+1006,2023-12-01,İstanbul,BİM,Oyun Mouse,Elektronik,2,450,900,Nakit
+1007,2023-06-11,İzmir,A101,Süt 1L,Gıda,5,25,125,Nakit
+1008,2023-03-22,Antalya,Teknosa,Akü 60Ah Bosch,Elektronik,5,1100,5500,Nakit
+1009,2023-11-13,Antalya,Şok,Motor Yağı 5W-30,Otomotiv,1,600,600,Banka Kartı
+1010,2023-12-04,İstanbul,Migros,Akü 12V 60Ah,Elektronik,5,950,4750,Kredi Kartı
+1011,2023-12-05,Antalya,Şok,Coca Cola 1.5L,İçecek,3,30,90,Kredi Kartı
+1012,2023-10-24,İstanbul,Carrefour,Şarjlı Pil Seti,Elektronik,1,250,250,Nakit
+1013,2023-02-27,Antalya,Teknosa,Motor Yağı 5W-30,Otomotiv,1,600,600,Kredi Kartı
+1014,2023-10-23,İstanbul,Carrefour,Telefon Şarj Aleti,Elektronik,3,200,600,Banka Kartı
+1015,2023-02-06,Ankara,Carrefour,Yumurta 30'lu,Gıda,4,90,360,Nakit
+1016,2023-02-09,İstanbul,Şok,Coca Cola 1.5L,İçecek,2,30,60,Kredi Kartı
+1017,2023-04-16,Bursa,Migros,Süt 1L,Gıda,2,25,50,Kredi Kartı
+1018,2023-06-28,Ankara,Teknosa,Ekmek,Gıda,5,10,50,Kredi Kartı
+1019,2023-07-06,Ankara,Şok,Şarjlı Pil Seti,Elektronik,4,250,1000,Banka Kartı
+1020,2023-02-16,İzmir,BİM,Yumurta 30'lu,Gıda,1,90,90,Kredi Kartı
+1021,2023-06-07,Ankara,Şok,Coca Cola 1.5L,İçecek,2,30,60,Nakit
+1022,2023-04-26,Bursa,Şok,Telefon Şarj Aleti,Elektronik,2,200,400,Kredi Kartı
+1023,2023-03-23,İzmir,Migros,Akü 12V 60Ah,Elektronik,5,950,4750,Nakit
+1024,2023-04-21,Bursa,Carrefour,Su 5L,İçecek,1,15,15,Kredi Kartı
+1025,2023-05-06,Ankara,Migros,Su 5L,İçecek,3,15,45,Nakit
+1026,2023-06-13,Bursa,A101,Lastik Basınç Ölçer,Otomotiv,5,180,900,Banka Kartı
+1027,2023-08-26,Antalya,Teknosa,Akü 12V 60Ah,Elektronik,4,950,3800,Banka Kartı
+1028,2023-03-30,Ankara,Migros,Süt 1L,Gıda,1,25,25,Nakit
+1029,2023-12-27,İzmir,Migros,Oyun Mouse,Elektronik,5,450,2250,Kredi Kartı
+1030,2023-12-22,İzmir,BİM,Oyun Mouse,Elektronik,2,450,900,Kredi Kartı
+1031,2023-05-13,Bursa,Teknosa,Motor Yağı 5W-30,Otomotiv,5,600,3000,Banka Kartı
+1032,2023-10-08,İzmir,Carrefour,Şarjlı Pil Seti,Elektronik,2,250,500,Kredi Kartı
+1033,2023-06-09,Bursa,BİM,Ekmek,Gıda,5,10,50,Banka Kartı
+1034,2023-07-23,Antalya,Carrefour,Su 5L,İçecek,1,15,15,Banka Kartı
+1035,2023-10-07,Antalya,BİM,Tornavida Seti,Hırdavat,1,300,300,Kredi Kartı
+1036,2023-07-29,Bursa,Teknosa,Şarjlı Pil Seti,Elektronik,4,250,1000,Kredi Kartı
+1037,2023-09-27,Antalya,Şok,Ekmek,Gıda,1,10,10,Kredi Kartı
+1038,2023-07-22,Antalya,Teknosa,Coca Cola 1.5L,İçecek,5,30,150,Kredi Kartı
+1039,2023-03-01,Bursa,BİM,Coca Cola 1.5L,İçecek,1,30,30,Banka Kartı
+1040,2023-10-18,Antalya,A101,Ekmek,Gıda,3,10,30,Banka Kartı
+1041,2023-06-10,İzmir,A101,Yumurta 30'lu,Gıda,1,90,90,Kredi Kartı
+1042,2023-01-05,İzmir,Carrefour,Şarjlı Pil Seti,Elektronik,2,250,500,Kredi Kartı
+1043,2023-03-06,Bursa,Carrefour,Tornavida Seti,Hırdavat,1,300,300,Banka Kartı
+1044,2023-06-23,Antalya,Carrefour,Motor Yağı 5W-30,Otomotiv,3,600,1800,Kredi Kartı
+1045,2023-09-07,Bursa,Teknosa,Motor Yağı 5W-30,Otomotiv,1,600,600,Kredi Kartı
+1046,2023-09-10,Antalya,Carrefour,Lastik Basınç Ölçer,Otomotiv,4,180,720,Kredi Kartı
+1047,2023-01-24,Bursa,BİM,Süt 1L,Gıda,1,25,25,Banka Kartı
+1048,2023-08-11,İstanbul,BİM,Lastik Basınç Ölçer,Otomotiv,1,180,180,Nakit
+1049,2023-06-06,İzmir,Carrefour,Akü 60Ah Bosch,Elektronik,1,1100,1100,Banka Kartı
+1050,2023-03-16,Bursa,Carrefour,Motor Yağı 5W-30,Otomotiv,2,600,1200,Banka Kartı
+1051,2023-03-30,Antalya,Carrefour,Ekmek,Gıda,3,10,30,Kredi Kartı
+1052,2023-01-05,Ankara,A101,Süt 1L,Gıda,4,25,100,Banka Kartı
+1053,2023-09-09,İstanbul,Şok,Süt 1L,Gıda,2,25,50,Nakit
+1054,2023-11-17,Antalya,A101,Şarjlı Pil Seti,Elektronik,3,250,750,Nakit
+1055,2023-07-02,İstanbul,Teknosa,Tornavida Seti,Hırdavat,1,300,300,Nakit
+1056,2023-09-18,Antalya,A101,Su 5L,İçecek,2,15,30,Nakit
+1057,2023-05-19,İzmir,Migros,Lastik Basınç Ölçer,Otomotiv,5,180,900,Banka Kartı
+1058,2023-02-27,İzmir,Şok,Yumurta 30'lu,Gıda,1,90,90,Kredi Kartı
+1059,2023-11-18,Ankara,Carrefour,Ekmek,Gıda,2,10,20,Nakit
+1060,2023-12-17,Bursa,Carrefour,Şarjlı Pil Seti,Elektronik,2,250,500,Nakit
+1061,2023-04-10,İzmir,A101,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1062,2023-05-18,İstanbul,Carrefour,Motor Yağı 5W-30,Otomotiv,4,600,2400,Banka Kartı
+1063,2023-05-06,Ankara,A101,Yumurta 30'lu,Gıda,1,90,90,Banka Kartı
+1064,2023-07-08,İstanbul,Teknosa,Telefon Şarj Aleti,Elektronik,5,200,1000,Nakit
+1065,2023-08-16,İstanbul,Teknosa,Yumurta 30'lu,Gıda,4,90,360,Kredi Kartı
+1066,2023-03-24,İzmir,Carrefour,Telefon Şarj Aleti,Elektronik,4,200,800,Banka Kartı
+1067,2023-02-08,Ankara,Şok,Lastik Basınç Ölçer,Otomotiv,3,180,540,Banka Kartı
+1068,2023-05-02,Ankara,A101,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1069,2023-02-20,İstanbul,Teknosa,Coca Cola 1.5L,İçecek,4,30,120,Nakit
+1070,2023-04-05,İzmir,A101,Akü 60Ah Bosch,Elektronik,3,1100,3300,Kredi Kartı
+1071,2023-10-21,Ankara,Şok,Akü 12V 60Ah,Elektronik,1,950,950,Nakit
+1072,2023-06-14,İstanbul,Carrefour,Şarjlı Pil Seti,Elektronik,3,250,750,Kredi Kartı
+1073,2023-12-14,İstanbul,BİM,Coca Cola 1.5L,İçecek,1,30,30,Kredi Kartı
+1074,2023-05-31,İstanbul,Teknosa,Akü 12V 60Ah,Elektronik,3,950,2850,Nakit
+1075,2023-01-31,Antalya,Teknosa,Ekmek,Gıda,1,10,10,Banka Kartı
+1076,2023-08-17,Bursa,Şok,Yumurta 30'lu,Gıda,2,90,180,Nakit
+1077,2023-05-26,İzmir,Migros,Coca Cola 1.5L,İçecek,1,30,30,Kredi Kartı
+1078,2023-01-22,Antalya,Şok,Tornavida Seti,Hırdavat,3,300,900,Banka Kartı
+1079,2023-03-02,Ankara,Migros,Yumurta 30'lu,Gıda,1,90,90,Nakit
+1080,2023-07-18,İzmir,Carrefour,Akü 60Ah Bosch,Elektronik,5,1100,5500,Banka Kartı
+1081,2023-12-29,Ankara,Teknosa,Su 5L,İçecek,5,15,75,Kredi Kartı
+1082,2023-12-19,Bursa,Migros,Süt 1L,Gıda,1,25,25,Kredi Kartı
+1083,2023-01-31,Ankara,Migros,Lastik Basınç Ölçer,Otomotiv,4,180,720,Kredi Kartı
+1084,2023-05-05,Bursa,Şok,Ekmek,Gıda,4,10,40,Nakit
+1085,2023-07-28,İzmir,Carrefour,Tornavida Seti,Hırdavat,3,300,900,Kredi Kartı
+1086,2023-05-04,Ankara,Carrefour,Motor Yağı 5W-30,Otomotiv,2,600,1200,Kredi Kartı
+1087,2023-09-23,İzmir,BİM,Lastik Basınç Ölçer,Otomotiv,5,180,900,Nakit
+1088,2023-07-25,İzmir,Şok,Tornavida Seti,Hırdavat,1,300,300,Nakit
+1089,2023-06-17,Antalya,Carrefour,Akü 12V 60Ah,Elektronik,5,950,4750,Kredi Kartı
+1090,2023-03-27,Ankara,Migros,Akü 12V 60Ah,Elektronik,4,950,3800,Nakit
+1091,2023-06-05,İzmir,Migros,Akü 60Ah Bosch,Elektronik,5,1100,5500,Nakit
+1092,2023-11-14,İstanbul,BİM,Coca Cola 1.5L,İçecek,4,30,120,Kredi Kartı
+1093,2023-01-14,İzmir,Şok,Coca Cola 1.5L,İçecek,4,30,120,Nakit
+1094,2023-08-05,İstanbul,Şok,Yumurta 30'lu,Gıda,4,90,360,Nakit
+1095,2023-06-06,İzmir,Teknosa,Akü 12V 60Ah,Elektronik,5,950,4750,Nakit
+1096,2023-04-11,Bursa,Carrefour,Süt 1L,Gıda,3,25,75,Kredi Kartı
+1097,2023-07-10,Bursa,Şok,Su 5L,İçecek,3,15,45,Kredi Kartı
+1098,2023-12-18,İstanbul,A101,Akü 60Ah Bosch,Elektronik,3,1100,3300,Banka Kartı
+1099,2023-04-28,İzmir,Teknosa,Lastik Basınç Ölçer,Otomotiv,3,180,540,Banka Kartı
+1100,2023-12-05,İstanbul,Carrefour,Oyun Mouse,Elektronik,2,450,900,Banka Kartı
+1101,2023-03-30,İstanbul,A101,Lastik Basınç Ölçer,Otomotiv,3,180,540,Kredi Kartı
+1102,2023-07-04,Ankara,Şok,Su 5L,İçecek,4,15,60,Banka Kartı
+1103,2023-04-14,Ankara,BİM,Coca Cola 1.5L,İçecek,4,30,120,Kredi Kartı
+1104,2023-08-27,Antalya,Şok,Tornavida Seti,Hırdavat,4,300,1200,Kredi Kartı
+1105,2023-02-17,Antalya,Teknosa,Şarjlı Pil Seti,Elektronik,2,250,500,Nakit
+1106,2023-08-02,Bursa,Migros,Süt 1L,Gıda,5,25,125,Nakit
+1107,2023-10-22,Bursa,Migros,Lastik Basınç Ölçer,Otomotiv,4,180,720,Kredi Kartı
+1108,2023-02-17,İstanbul,Migros,Lastik Basınç Ölçer,Otomotiv,5,180,900,Kredi Kartı
+1109,2023-02-10,Ankara,A101,Ekmek,Gıda,2,10,20,Kredi Kartı
+1110,2023-04-12,Ankara,BİM,Şarjlı Pil Seti,Elektronik,2,250,500,Nakit
+1111,2023-12-10,İstanbul,Teknosa,Süt 1L,Gıda,1,25,25,Banka Kartı
+1112,2023-10-20,Ankara,Teknosa,Telefon Şarj Aleti,Elektronik,2,200,400,Banka Kartı
+1113,2023-04-16,Antalya,Carrefour,Coca Cola 1.5L,İçecek,1,30,30,Nakit
+1114,2023-10-04,Antalya,Carrefour,Akü 60Ah Bosch,Elektronik,3,1100,3300,Nakit
+1115,2023-10-24,Antalya,BİM,Süt 1L,Gıda,2,25,50,Banka Kartı
+1116,2023-02-28,İstanbul,Migros,Coca Cola 1.5L,İçecek,5,30,150,Kredi Kartı
+1117,2023-07-02,İstanbul,Carrefour,Su 5L,İçecek,1,15,15,Banka Kartı
+1118,2023-06-11,Bursa,BİM,Ekmek,Gıda,2,10,20,Kredi Kartı
+1119,2023-08-14,İstanbul,Şok,Şarjlı Pil Seti,Elektronik,5,250,1250,Kredi Kartı
+1120,2023-10-07,İzmir,BİM,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1121,2023-08-28,İzmir,Carrefour,Motor Yağı 5W-30,Otomotiv,2,600,1200,Banka Kartı
+1122,2023-04-26,Bursa,Şok,Tornavida Seti,Hırdavat,3,300,900,Kredi Kartı
+1123,2023-08-18,Bursa,Şok,Coca Cola 1.5L,İçecek,4,30,120,Kredi Kartı
+1124,2023-11-01,Antalya,Migros,Akü 12V 60Ah,Elektronik,3,950,2850,Nakit
+1125,2023-03-27,Bursa,Carrefour,Ekmek,Gıda,3,10,30,Banka Kartı
+1126,2023-12-02,Ankara,Teknosa,Şarjlı Pil Seti,Elektronik,4,250,1000,Banka Kartı
+1127,2023-03-19,Ankara,Teknosa,Ekmek,Gıda,2,10,20,Nakit
+1128,2023-06-05,Bursa,Carrefour,Süt 1L,Gıda,5,25,125,Kredi Kartı
+1129,2023-03-23,Bursa,Şok,Yumurta 30'lu,Gıda,1,90,90,Kredi Kartı
+1130,2023-09-16,Bursa,Şok,Lastik Basınç Ölçer,Otomotiv,3,180,540,Kredi Kartı
+1131,2023-11-21,Ankara,Migros,Lastik Basınç Ölçer,Otomotiv,4,180,720,Banka Kartı
+1132,2023-12-19,İstanbul,Şok,Telefon Şarj Aleti,Elektronik,2,200,400,Kredi Kartı
+1133,2023-10-15,İstanbul,A101,Şarjlı Pil Seti,Elektronik,3,250,750,Banka Kartı
+1134,2023-12-23,İzmir,Teknosa,Motor Yağı 5W-30,Otomotiv,2,600,1200,Nakit
+1135,2023-05-16,Bursa,Teknosa,Ekmek,Gıda,1,10,10,Banka Kartı
+1136,2023-01-28,Ankara,A101,Lastik Basınç Ölçer,Otomotiv,3,180,540,Kredi Kartı
+1137,2023-08-22,Bursa,BİM,Akü 12V 60Ah,Elektronik,4,950,3800,Kredi Kartı
+1138,2023-04-28,İzmir,A101,Oyun Mouse,Elektronik,2,450,900,Kredi Kartı
+1139,2023-02-23,Bursa,Migros,Şarjlı Pil Seti,Elektronik,3,250,750,Kredi Kartı
+1140,2023-08-11,İstanbul,Teknosa,Akü 12V 60Ah,Elektronik,2,950,1900,Kredi Kartı
+1141,2023-07-10,Ankara,Teknosa,Lastik Basınç Ölçer,Otomotiv,4,180,720,Nakit
+1142,2023-06-13,Ankara,Şok,Su 5L,İçecek,2,15,30,Nakit
+1143,2023-03-29,İstanbul,Teknosa,Oyun Mouse,Elektronik,1,450,450,Kredi Kartı
+1144,2023-02-23,Ankara,Şok,Telefon Şarj Aleti,Elektronik,1,200,200,Nakit
+1145,2023-10-14,Bursa,Carrefour,Lastik Basınç Ölçer,Otomotiv,1,180,180,Nakit
+1146,2023-01-17,Antalya,Şok,Oyun Mouse,Elektronik,2,450,900,Kredi Kartı
+1147,2023-01-25,Bursa,A101,Yumurta 30'lu,Gıda,3,90,270,Nakit
+1148,2023-04-23,Ankara,Migros,Süt 1L,Gıda,4,25,100,Kredi Kartı
+1149,2023-09-29,Ankara,A101,Coca Cola 1.5L,İçecek,1,30,30,Nakit
+1150,2023-05-29,Ankara,A101,Coca Cola 1.5L,İçecek,5,30,150,Nakit
+1151,2023-08-16,Ankara,Migros,Motor Yağı 5W-30,Otomotiv,3,600,1800,Nakit
+1152,2023-09-15,Ankara,Carrefour,Ekmek,Gıda,5,10,50,Nakit
+1153,2023-10-05,İstanbul,Migros,Telefon Şarj Aleti,Elektronik,4,200,800,Kredi Kartı
+1154,2023-07-06,İzmir,BİM,Süt 1L,Gıda,2,25,50,Nakit
+1155,2023-03-20,Antalya,Carrefour,Akü 12V 60Ah,Elektronik,2,950,1900,Nakit
+1156,2023-06-23,Antalya,BİM,Motor Yağı 5W-30,Otomotiv,4,600,2400,Banka Kartı
+1157,2023-01-08,Bursa,Carrefour,Ekmek,Gıda,3,10,30,Kredi Kartı
+1158,2023-12-21,Antalya,Teknosa,Oyun Mouse,Elektronik,4,450,1800,Nakit
+1159,2023-12-11,Bursa,Carrefour,Süt 1L,Gıda,3,25,75,Kredi Kartı
+1160,2023-12-15,İzmir,Carrefour,Ekmek,Gıda,1,10,10,Banka Kartı
+1161,2023-03-08,Bursa,Migros,Lastik Basınç Ölçer,Otomotiv,4,180,720,Banka Kartı
+1162,2023-01-04,Ankara,BİM,Lastik Basınç Ölçer,Otomotiv,5,180,900,Kredi Kartı
+1163,2023-12-26,Antalya,Teknosa,Motor Yağı 5W-30,Otomotiv,3,600,1800,Nakit
+1164,2023-10-25,Antalya,Teknosa,Coca Cola 1.5L,İçecek,5,30,150,Nakit
+1165,2023-03-13,Ankara,Şok,Yumurta 30'lu,Gıda,1,90,90,Kredi Kartı
+1166,2023-07-29,İzmir,Teknosa,Coca Cola 1.5L,İçecek,2,30,60,Kredi Kartı
+1167,2023-07-01,Bursa,A101,Tornavida Seti,Hırdavat,3,300,900,Nakit
+1168,2023-10-12,İzmir,BİM,Lastik Basınç Ölçer,Otomotiv,3,180,540,Kredi Kartı
+1169,2023-09-26,İzmir,BİM,Akü 60Ah Bosch,Elektronik,2,1100,2200,Nakit
+1170,2023-11-08,Ankara,Teknosa,Ekmek,Gıda,3,10,30,Kredi Kartı
+1171,2023-03-27,İzmir,Migros,Akü 12V 60Ah,Elektronik,4,950,3800,Banka Kartı
+1172,2023-07-22,İzmir,BİM,Lastik Basınç Ölçer,Otomotiv,1,180,180,Banka Kartı
+1173,2023-05-01,Ankara,Migros,Süt 1L,Gıda,2,25,50,Kredi Kartı
+1174,2023-01-01,İstanbul,BİM,Akü 12V 60Ah,Elektronik,3,950,2850,Banka Kartı
+1175,2023-03-25,Ankara,A101,Oyun Mouse,Elektronik,5,450,2250,Banka Kartı
+1176,2023-07-13,Bursa,Migros,Tornavida Seti,Hırdavat,4,300,1200,Banka Kartı
+1177,2023-01-04,Ankara,Şok,Ekmek,Gıda,4,10,40,Banka Kartı
+1178,2023-09-02,Antalya,A101,Coca Cola 1.5L,İçecek,1,30,30,Nakit
+1179,2023-08-19,Antalya,Migros,Şarjlı Pil Seti,Elektronik,4,250,1000,Banka Kartı
+1180,2023-09-18,Antalya,A101,Şarjlı Pil Seti,Elektronik,5,250,1250,Kredi Kartı
+1181,2023-04-06,İstanbul,Migros,Oyun Mouse,Elektronik,1,450,450,Kredi Kartı
+1182,2023-02-10,İzmir,Şok,Coca Cola 1.5L,İçecek,2,30,60,Nakit
+1183,2023-04-03,Ankara,A101,Akü 60Ah Bosch,Elektronik,4,1100,4400,Kredi Kartı
+1184,2023-06-21,İzmir,Şok,Lastik Basınç Ölçer,Otomotiv,3,180,540,Kredi Kartı
+1185,2023-12-03,İzmir,A101,Şarjlı Pil Seti,Elektronik,4,250,1000,Banka Kartı
+1186,2023-05-10,Ankara,Teknosa,Akü 12V 60Ah,Elektronik,1,950,950,Nakit
+1187,2023-05-17,İzmir,Teknosa,Akü 60Ah Bosch,Elektronik,4,1100,4400,Nakit
+1188,2023-07-08,Bursa,Carrefour,Süt 1L,Gıda,5,25,125,Banka Kartı
+1189,2023-07-13,Antalya,Migros,Oyun Mouse,Elektronik,1,450,450,Banka Kartı
+1190,2023-01-05,Bursa,A101,Akü 12V 60Ah,Elektronik,4,950,3800,Nakit
+1191,2023-03-28,İzmir,Teknosa,Oyun Mouse,Elektronik,3,450,1350,Kredi Kartı
+1192,2023-05-28,İstanbul,A101,Şarjlı Pil Seti,Elektronik,2,250,500,Kredi Kartı
+1193,2023-07-19,İzmir,Migros,Motor Yağı 5W-30,Otomotiv,1,600,600,Nakit
+1194,2023-12-20,Ankara,Migros,Lastik Basınç Ölçer,Otomotiv,5,180,900,Kredi Kartı
+1195,2023-10-01,Antalya,BİM,Şarjlı Pil Seti,Elektronik,3,250,750,Banka Kartı
+1196,2023-06-30,Ankara,Şok,Telefon Şarj Aleti,Elektronik,3,200,600,Banka Kartı
+1197,2023-03-25,İstanbul,Migros,Telefon Şarj Aleti,Elektronik,3,200,600,Nakit
+1198,2023-11-08,Ankara,Teknosa,Telefon Şarj Aleti,Elektronik,3,200,600,Nakit
+1199,2023-08-16,Antalya,Migros,Telefon Şarj Aleti,Elektronik,4,200,800,Kredi Kartı
+1200,2023-05-04,Ankara,Migros,Su 5L,İçecek,5,15,75,Banka Kartı

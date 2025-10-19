@@ -1,0 +1,16 @@
+{
+  "name": "SariSiyahTema",
+  "dataColors": [
+    "#FFB400",
+    "#000000",
+    "#FFD966",
+    "#2F2F2F",
+    "#FFC857",
+    "#1F1F1F",
+    "#F2C94C",
+    "#000000"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#FFB400"
+}
